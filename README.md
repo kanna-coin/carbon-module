@@ -4,9 +4,7 @@ description: Context about Kanna and the Carbon Module on Solana
 
 # 👋 Kanna's Carbon Module
 
-{% hint style="info" %}
-_Kanna is a company that has been in the market for about 2 years and already has an asset listed on Mercado Bitcoin, the KNN which is native to the Ethereum network and integrated into the Polygon Network. The company also has a B2B product, the ESG audit protocol for Cannabis producers._
-{% endhint %}
+> _Kanna is a company that has been in the market for about 2 years and already has an asset listed on Mercado Bitcoin, the KNN which is native to the Ethereum network and integrated into the Polygon Network. The company also has a B2B product, the ESG audit protocol for Cannabis producers._
 
 ## Overview
 
