@@ -1,8 +1,6 @@
 # 💡 What is Kanna?
 
-{% hint style="success" %}
-Kanna is a community that encourages sustainable practices and regenerative agriculture through a platform that audits the cannabis production chain.
-{% endhint %}
+> Kanna is a community that encourages sustainable practices and regenerative agriculture through a platform that audits the cannabis production chain.
 
 Through an advanced technological platform, Kanna plays a crucial role in auditing the production chain of this plant, verifying and ensuring that each step of the process aligns with the highest standards of sustainability and environmental responsibility.&#x20;
 

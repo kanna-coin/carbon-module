@@ -8,7 +8,7 @@ description: Context about Kanna and the Carbon Module on Solana
 
 ## Overview
 
-> ### We are Kanna, an RWA that aims to build a carbon tokenization system, through the registration of the audited production chain in a decentralized manner on the <mark style="background-color:green;">Solana Blockchain.</mark>&#x20;
+### We are Kanna, an RWA that aims to build a carbon tokenization system, through the registration of the audited production chain in a decentralized manner on the <mark style="background-color:green;">Solana Blockchain.</mark>&#x20;
 
 We aim to develop a new module within Kanna's technology to generate carbon credits that have their origin linked to the producers' audit, consequently having the entire productive chain of the impact credit registered on the Blockchain.&#x20;
 
